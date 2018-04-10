@@ -1,0 +1,7 @@
+#Tue Apr 10 21:15:32 CST 2018
+base.0=E\:\\ANDROIDPROJECT\\BeatBox\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_4af38495fb4bc1627624a470428e6a07f9f45377
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=E\:\\ANDROIDPROJECT\\BeatBox\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_c586d0e846c45106440af7dc72c852c307a83d45\\classes.dex
+base.1=E\:\\ANDROIDPROJECT\\BeatBox\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_c586d0e846c45106440af7dc72c852c307a83d45
+file.0=E\:\\ANDROIDPROJECT\\BeatBox\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_4af38495fb4bc1627624a470428e6a07f9f45377\\classes.dex

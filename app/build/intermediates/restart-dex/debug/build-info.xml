@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86"
+    api-level="26"
+    build-mode="COLD"
+    density="xxhdpi"
+    format="10"
+    plugin-version="2.3.0"
+    timestamp="1523366128012"
+    token="1861630180200369569"
+    verifier="COLD_SWAP_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="1253" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="36" />
+    <task
+        name="verifier"
+        duration="25" />
+
+    <artifact
+        location="E:\ANDROIDPROJECT\BeatBox\app\build\intermediates\split-apk\debug\slices\slice_5.apk"
+        type="SPLIT" />
+    <artifact
+        location="E:\ANDROIDPROJECT\BeatBox\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
+        type="SPLIT" />
+    <artifact
+        location="E:\ANDROIDPROJECT\BeatBox\app\build\outputs\apk\app-debug.apk"
+        type="SPLIT_MAIN" />
+
+    <build
+        build-mode="FULL"
+        timestamp="1523364956079"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="E:\ANDROIDPROJECT\BeatBox\app\build\intermediates\split-apk\debug\dep\dependencies.apk"
+            type="SPLIT" />
+        <artifact
+            location="E:\ANDROIDPROJECT\BeatBox\app\build\intermediates\split-apk\debug\slices\slice_3.apk"
+            type="SPLIT" />
+        <artifact
+            location="E:\ANDROIDPROJECT\BeatBox\app\build\intermediates\split-apk\debug\slices\slice_1.apk"
+            type="SPLIT" />
+        <artifact
+            location="E:\ANDROIDPROJECT\BeatBox\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
+            type="SPLIT" />
+        <artifact
+            location="E:\ANDROIDPROJECT\BeatBox\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
+            type="SPLIT" />
+        <artifact
+            location="E:\ANDROIDPROJECT\BeatBox\app\build\intermediates\split-apk\debug\slices\slice_5.apk"
+            type="SPLIT" />
+        <artifact
+            location="E:\ANDROIDPROJECT\BeatBox\app\build\intermediates\split-apk\debug\slices\slice_4.apk"
+            type="SPLIT" />
+        <artifact
+            location="E:\ANDROIDPROJECT\BeatBox\app\build\intermediates\split-apk\debug\slices\slice_7.apk"
+            type="SPLIT" />
+        <artifact
+            location="E:\ANDROIDPROJECT\BeatBox\app\build\intermediates\split-apk\debug\slices\slice_6.apk"
+            type="SPLIT" />
+        <artifact
+            location="E:\ANDROIDPROJECT\BeatBox\app\build\intermediates\split-apk\debug\slices\slice_9.apk"
+            type="SPLIT" />
+        <artifact
+            location="E:\ANDROIDPROJECT\BeatBox\app\build\intermediates\split-apk\debug\slices\slice_8.apk"
+            type="SPLIT" />
+        <artifact
+            location="E:\ANDROIDPROJECT\BeatBox\app\build\outputs\apk\app-debug.apk"
+            type="SPLIT_MAIN" />
+    </build>
+    <build
+        build-mode="COLD"
+        timestamp="1523366128012"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="E:\ANDROIDPROJECT\BeatBox\app\build\intermediates\split-apk\debug\slices\slice_5.apk"
+            type="SPLIT" />
+        <artifact
+            location="E:\ANDROIDPROJECT\BeatBox\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
+            type="SPLIT" />
+        <artifact
+            location="E:\ANDROIDPROJECT\BeatBox\app\build\outputs\apk\app-debug.apk"
+            type="SPLIT_MAIN" />
+    </build>
+
+</instant-run>

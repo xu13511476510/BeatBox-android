@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="E:\ANDROIDPROJECT\BeatBox\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="E:\ANDROIDPROJECT\BeatBox\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_4af38495fb4bc1627624a470428e6a07f9f45377\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\ANDROIDPROJECT\BeatBox\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8d79fed92d8671b837b7e357de01c8ba5ddb8b88">
+        <dex dex="E:\ANDROIDPROJECT\BeatBox\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_c586d0e846c45106440af7dc72c852c307a83d45\classes.dex" />
+    </item>
+
+</items>
